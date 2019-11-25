@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<script>
+    var arr = [{
+        key: '01',
+       value: '乐乐'
+    }, {
+        key: '02',
+        value: '博博'
+     }, {
+        key: '03',
+        value: '淘淘'
+    },{
+       key: '04',
+       value: '哈哈'
+    },{
+       key: '05',
+       value: '乐乐'
+    }];
+    var result = [];
+    var obj = {};
+    for(var i =0; i<arr.length; i++){
+       if(!obj[arr[i].value]){
+          result.push(arr[i]);
+         obj[arr[i].value] = true;
+       }
+    }
+    console.log(result);
+
+</script>
+</body>
+</html>

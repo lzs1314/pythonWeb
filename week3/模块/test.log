@@ -1,0 +1,83 @@
+Tue, 23 Apr 2019 10:41:27 logging-module.py[line:24] DEBUG debug message
+Tue, 23 Apr 2019 10:41:27 logging-module.py[line:25] INFO info message
+Tue, 23 Apr 2019 10:41:27 logging-module.py[line:26] WARNING warning message
+Tue, 23 Apr 2019 10:41:27 logging-module.py[line:27] ERROR error message
+Tue, 23 Apr 2019 10:41:27 logging-module.py[line:28] CRITICAL critical message
+Tue, 23 Apr 2019 10:42:10 logging-module.py[line:24] DEBUG debug message
+Tue, 23 Apr 2019 10:42:10 logging-module.py[line:25] INFO info message
+Tue, 23 Apr 2019 10:42:10 logging-module.py[line:26] WARNING warning message
+Tue, 23 Apr 2019 10:42:10 logging-module.py[line:27] ERROR error message
+Tue, 23 Apr 2019 10:42:10 logging-module.py[line:28] CRITICAL critical message
+
+
+
+
+
+
+
+
+
+
+Tue, 23 Apr 2019 10:45:42 logging-module.py[line:24] DEBUG debug message
+Tue, 23 Apr 2019 10:45:42 logging-module.py[line:25] INFO info message
+Tue, 23 Apr 2019 10:45:42 logging-module.py[line:26] WARNING warning message
+Tue, 23 Apr 2019 10:45:42 logging-module.py[line:27] ERROR error message
+Tue, 23 Apr 2019 10:45:42 logging-module.py[line:28] CRITICAL critical message
+Tue, 23 Apr 2019 10:45:46 logging-module.py[line:24] DEBUG debug message
+Tue, 23 Apr 2019 10:45:46 logging-module.py[line:25] INFO info message
+Tue, 23 Apr 2019 10:45:46 logging-module.py[line:26] WARNING warning message
+Tue, 23 Apr 2019 10:45:46 logging-module.py[line:27] ERROR error message
+Tue, 23 Apr 2019 10:45:46 logging-module.py[line:28] CRITICAL critical message
+Tue, 23 Apr 2019 10:45:47 logging-module.py[line:24] DEBUG debug message
+Tue, 23 Apr 2019 10:45:47 logging-module.py[line:25] INFO info message
+Tue, 23 Apr 2019 10:45:47 logging-module.py[line:26] WARNING warning message
+Tue, 23 Apr 2019 10:45:47 logging-module.py[line:27] ERROR error message
+Tue, 23 Apr 2019 10:45:47 logging-module.py[line:28] CRITICAL critical message
+Tue, 23 Apr 2019 10:45:49 logging-module.py[line:24] DEBUG debug message
+Tue, 23 Apr 2019 10:45:49 logging-module.py[line:25] INFO info message
+Tue, 23 Apr 2019 10:45:49 logging-module.py[line:26] WARNING warning message
+Tue, 23 Apr 2019 10:45:49 logging-module.py[line:27] ERROR error message
+Tue, 23 Apr 2019 10:45:49 logging-module.py[line:28] CRITICAL critical message
+2019-04-23 11:00:02,264 - root - WARNING - logger warning message
+2019-04-23 11:00:02,264 - root - ERROR - logger error message
+2019-04-23 11:00:02,264 - root - CRITICAL - logger critical message
+2019-04-23 11:08:30,243 - root - DEBUG - logger debug message
+2019-04-23 11:08:30,254 - root - INFO - logger info message
+2019-04-23 11:08:30,254 - root - WARNING - logger warning message
+2019-04-23 11:08:30,254 - root - ERROR - logger error message
+2019-04-23 11:08:30,254 - root - CRITICAL - logger critical message
+Thu, 05 Sep 2019 11:20:14 logging-module.py[line:21] DEBUG debug message
+Thu, 05 Sep 2019 11:20:14 logging-module.py[line:22] INFO info message
+Thu, 05 Sep 2019 11:20:14 logging-module.py[line:23] WARNING warning message
+Thu, 05 Sep 2019 11:20:14 logging-module.py[line:24] ERROR error message
+Thu, 05 Sep 2019 11:20:14 logging-module.py[line:25] CRITICAL critical message
+2019-09-05 11:20:42,271 - root - DEBUG - logger debug message
+2019-09-05 11:20:42,271 - root - INFO - logger info message
+2019-09-05 11:20:42,271 - root - WARNING - logger warning message
+2019-09-05 11:20:42,271 - root - ERROR - logger error message
+2019-09-05 11:20:42,271 - root - CRITICAL - logger critical message
+2019-09-10 16:03:26,242 - root - DEBUG - logger debug message
+2019-09-10 16:03:26,242 - root - INFO - logger info message
+2019-09-10 16:03:26,242 - root - WARNING - logger warning message
+2019-09-10 16:03:26,242 - root - ERROR - logger error message
+2019-09-10 16:03:26,242 - root - CRITICAL - logger critical message
+2019-09-10 16:03:53,891 - root - DEBUG - logger debug message
+2019-09-10 16:03:53,892 - root - INFO - logger info message
+2019-09-10 16:03:53,892 - root - WARNING - logger warning message
+2019-09-10 16:03:53,892 - root - ERROR - logger error message
+2019-09-10 16:03:53,892 - root - CRITICAL - logger critical message
+2019-09-10 16:08:13,391 - root - DEBUG - logger debug message
+2019-09-10 16:08:13,391 - root - INFO - logger info message
+2019-09-10 16:08:13,392 - root - WARNING - logger warning message
+2019-09-10 16:08:13,392 - root - ERROR - logger error message
+2019-09-10 16:08:13,392 - root - CRITICAL - logger critical message
+2019-09-10 16:10:01,284 - root - DEBUG - logger debug message
+2019-09-10 16:10:01,285 - root - INFO - logger info message
+2019-09-10 16:10:01,285 - root - WARNING - logger warning message
+2019-09-10 16:10:01,285 - root - ERROR - logger error message
+2019-09-10 16:10:01,285 - root - CRITICAL - logger critical message
+2019-09-10 16:10:23,028 - root - DEBUG - logger debug message
+2019-09-10 16:10:23,028 - root - INFO - logger info message
+2019-09-10 16:10:23,028 - root - WARNING - logger warning message
+2019-09-10 16:10:23,028 - root - ERROR - logger error message
+2019-09-10 16:10:23,028 - root - CRITICAL - logger critical message
